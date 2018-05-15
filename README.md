@@ -2,7 +2,7 @@
  - 今回はProBuilderだけをインストールしていますが、インストールはPostprocessing や TextMeshProなども同じ方法です。
 <br>
 
-## どこからインストールするの？
+# どこからインストールするの？
  - メニューバーから<b>Window</b>を選択
  - その中にある<b>PackegeManager</b>をクリック
  <br>
@@ -18,7 +18,7 @@
 ![](Image/ProBuilder.jpg)
 <br>
 
-## どこから使うの？
+# どこから使うの？
  - インストールが完了するとメニューバーに<b>Tools</b>が表示される
  - <b>Tools</b>から<b>ProBuilder</b>を選択し、<b>ProBuilder Window</b>をクリックしたら<b>ProBuilder</b>が使えます
 
