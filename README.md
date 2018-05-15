@@ -3,7 +3,7 @@
 ## どこからインストールするの？
  - メニューバーから<b>Window</b>
  - その中にある<b>PackegeManager</b>をクリック
- 
+ <br>
  
 ![](Image/PackageManager.jpg)
 
