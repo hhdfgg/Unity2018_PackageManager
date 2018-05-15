@@ -3,7 +3,7 @@
 <br>
 
 ## どこからインストールするの？
- - メニューバーから<b>Window</b>
+ - メニューバーから<b>Window</b>を選択
  - その中にある<b>PackegeManager</b>をクリック
  <br>
  
@@ -11,7 +11,8 @@
 <br>
  - <b>Packages</b>タブが出たら<b>All</b>に切り替える
  - その中の<b>ProBuilder</b>をクリック
- - 右上にある<b>install 3.0.8</b>をクリックしたら、少し待つ
+ - 右上にある<b>install 3.0.8</b>をクリック
+ - 少し待つ
 <br>
 
 ![](Image/ProBuilder.jpg)
