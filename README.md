@@ -1,4 +1,5 @@
 # Unity2018でProBuilderなどインストールする方法
+ - Unity 2018.1.0f2 で説明しています。
  - 今回はProBuilderだけをインストールしていますが、インストールはPostprocessing や TextMeshProなども同じ方法です。
 <br>
 
