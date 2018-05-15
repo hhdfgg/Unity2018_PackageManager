@@ -1,5 +1,5 @@
 # Unity2018でProBuilderなどインストールする方法
- - 今回はProBuilderだけをインストールしていますが、Postprocessing や TextMeshProなども同じ方法です。
+ - 今回はProBuilderだけをインストールしていますが、インストールはPostprocessing や TextMeshProなども同じ方法です。
 <br>
 
 ## どこからインストールするの？
@@ -17,8 +17,10 @@
 ![](Image/ProBuilder.jpg)
 <br>
 
+## どこから使うの？
  - インストールが完了するとメニューバーに<b>Tools</b>が表示される
  - <b>Tools</b>から<b>ProBuilder</b>を選択し、<b>ProBuilder Window</b>をクリックしたら<b>proBuilder</b>が使えます
- 
+
  <br>
+ 
  ![](Image/ProBuilder_Tools.jpg)
