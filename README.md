@@ -19,7 +19,7 @@
 
 ## どこから使うの？
  - インストールが完了するとメニューバーに<b>Tools</b>が表示される
- - <b>Tools</b>から<b>ProBuilder</b>を選択し、<b>ProBuilder Window</b>をクリックしたら<b>proBuilder</b>が使えます
+ - <b>Tools</b>から<b>ProBuilder</b>を選択し、<b>ProBuilder Window</b>をクリックしたら<b>ProBuilder</b>が使えます
 
  <br>
  
