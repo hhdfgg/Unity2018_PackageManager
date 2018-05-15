@@ -10,6 +10,7 @@
  
 ![](Image/PackageManager.jpg)
 <br>
+
  - <b>Packages</b>タブが出たら<b>All</b>に切り替える
  - その中の<b>ProBuilder</b>をクリック
  - 右上にある<b>install 3.0.8</b>をクリック
